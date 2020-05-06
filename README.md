@@ -19,7 +19,7 @@ https://github.com/DorianYoung
 > ## Installation
 
 ```sh
-npm i Inquirer   ||   npm i Mysql
+npm install || npm start
 ```
 
 > ## Usage
